@@ -40,7 +40,7 @@ switch(myDay) {
             name: "milky way frapppaccino",
             pic: "images/frappaccino.jpg",
             alt: "A milky way fappuccino in a white ceramic cup with an intricate flower-like design in caramel and chocolate on the top.",
-            color: "blue",
+            color: "brown",
             desc: `.<br>Our milky way cappuccino is to die for. Made with milk chocolate, caramel, and topped with whipped cream and swirls of milk chocolate and caramel syrups in an intricate pattern, this drink is heaven in a cup!<br>The milky way is also available as a latte, if that's more your style.`,
             day: "Sunday"
         };
@@ -52,7 +52,7 @@ switch(myDay) {
             name: "pumpkin spice latte",
             pic: "images/pumpkin-spice-latte.jpg",
             alt: "A picture of a pumpkin spice latte in an orange ceramic mug.",
-            color: "#FF7518",
+            color: "orange",
             desc: `.<br>Our pumpkin spice latte makes us wish it was always fall, as this is one of our top sellers! Made with cinnamon, nutmeg, ground clove, just a touch of pumpkin puree, and (of course) sugar, this is sure to be the best pumpkin spice latte you've ever tasted!`,
             day: "Monday"
         };
@@ -64,7 +64,7 @@ switch(myDay) {
             name: "caramel-latte",
             pic: "images/caramel-latte.jpg",
             alt: "A picture of an espress topped with whipped cream and cinnamon in a white ceramic cup.",
-            color: "#00FFFF",
+            color: "gray",
             desc: `.<br>Brought to you from Italy, the espresso con panna is a simple but delicious drink. Consisting of espresso topped with a small mountain of whipped cream and a dusting of cinnamon, it's a truly decadent, and we know you're going to love it!`,
             day: "Tuesday"
         };
@@ -88,7 +88,7 @@ switch(myDay) {
             name: "mocha",
             pic: "images/mocha.jpg",
             alt: "A picture of a mocha in a white ceramic coffee cup.",
-            color: "violet",
+            color: "pink",
             desc: `.<br>Our mochas are made with the finest dark cocoa powder and topped with a dash of whipped cream and a milk chocolate drizzle that we make ourselves right here in the shop.<br>If you'd like to add a bit of a kick, ask for our Mexican mocha, which has chili powder added to it!`,
             day: "Thursday"
         };
